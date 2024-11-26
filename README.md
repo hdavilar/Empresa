@@ -2,4 +2,4 @@
 
 22 de Noviembre: He conocido al tutor y he seguido haciendo cursos obligatorios.
 
-25 de Noviembre: 
+26 de Noviembre: 
