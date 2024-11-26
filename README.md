@@ -2,4 +2,4 @@
 
 22 de Noviembre: He conocido al tutor y he seguido haciendo cursos obligatorios.
 
-26 de Noviembre: 
+26 de Noviembre: He conocido al PEM y he tenido una reunión con el equipo además de leerme la documentación del proyecto.
