@@ -1,1 +1,50 @@
+Nombre del alumno: Héctor Dávila Rodríguez
 
+Empresa: ViewNext
+
+Área o departamento: Observabilidad
+
+Proyecto asignado: GISS
+
+Periodo de prácticas: 21/11/2024 - 17/03/2025
+
+Días: Lunes, Martes, Jueves y Viernes
+
+Horario: 8:15-15:00
+
+Tutor de empresa: Isaac Luengo Gorgojo
+
+---------------------------------------------------------------------------------------------
+
+21 de Noviembre: He procedido a la recogida del equipo y a la realización de algunos cursos obligatorios.
+
+22 de Noviembre: He conocido al tutor y he seguido haciendo cursos obligatorios.
+
+26 de Noviembre: He conocido al PEM y he tenido una reunión con el equipo además de leer parte de la documentación del proyecto.
+
+28 de Noviembre: Siguiendo con la lectura de la documentación.
+
+29 de Noviembre: Realización de un curso de los diferentes comandos relacionados con la terminal de Linux.
+
+2 de Diciembre: Continuación del curso de comandos de Linux.
+
+3 de Diciembre: Continuación del curso de comandos de Linux.
+
+5 de Diciembre: Continuación del curso de comandos de Linux.
+
+10 de Diciembre: Finalización del curso de los comandos Linux e inicio del curso intensivo de Agile y Scrum
+
+12 de Diciembre: Configuración del entorno virtual de la GISS, finalización del curso de Agile y Scrum e inicio de un curso de Dynatrace.
+
+13 de Diciembre: Continuación del curso de Dynatrace.
+
+16 de Diciembre: Continuación del curso de Dynatrace.
+
+17 de Diciembre: Inicio de un curso de Python.
+
+19 de Diciembre: Continuación del curso de Python.
+
+20 de Diciembre: Continuación del curso de Python.
+
+<h3>2025</h3>
+9 de Enero: Continuación del curso de Python.
