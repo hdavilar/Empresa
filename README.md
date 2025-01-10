@@ -48,5 +48,5 @@ Tutor de empresa: Isaac Luengo Gorgojo
 
 <h3>2025</h3>
 9 de Enero: Continuación del curso de Python.
-<br/>
+<br>
 10 de Enero: Continuación del curso de Python.
