@@ -1,1 +1,77 @@
+### Nombre del alumno: Héctor Dávila Rodríguez
 
+### Empresa: ViewNext
+
+### Área o departamento: Observabilidad
+
+### Proyecto asignado: GISS
+
+### Periodo de prácticas: 21/11/2024 - 17/03/2025
+
+### Días: de Lunes a Jueves
+
+### Horario: 8:15-15:00
+
+### Tutor de empresa: Isaac Luengo Gorgojo
+
+---------------------------------------------------------------------------------------------
+
+21 de Noviembre: He procedido a la recogida del equipo y a la realización de algunos cursos obligatorios.
+
+22 de Noviembre: He conocido al tutor y he seguido haciendo cursos obligatorios.
+
+26 de Noviembre: He conocido al PEM y he tenido una reunión con el equipo además de leer parte de la documentación del proyecto.
+
+28 de Noviembre: Siguiendo con la lectura de la documentación.
+
+29 de Noviembre: Realización de un curso de los diferentes comandos relacionados con la terminal de Linux.
+
+2 de Diciembre: Continuación del curso de comandos de Linux.
+
+3 de Diciembre: Continuación del curso de comandos de Linux.
+
+5 de Diciembre: Continuación del curso de comandos de Linux.
+
+10 de Diciembre: Finalización del curso de los comandos Linux e inicio del curso intensivo de Agile y Scrum
+
+12 de Diciembre: Configuración del entorno virtual de la GISS, finalización del curso de Agile y Scrum e inicio de un curso de Dynatrace.
+
+13 de Diciembre: Continuación del curso de Dynatrace.
+
+16 de Diciembre: Continuación del curso de Dynatrace.
+
+17 de Diciembre: Inicio de un curso de Python.
+
+19 de Diciembre: Continuación del curso de Python.
+
+20 de Diciembre: Continuación del curso de Python.
+
+
+
+2025
+
+9 de Enero: Continuación del curso de Python.
+
+10 de Enero: Continuación del curso de Python.
+
+13 de Enero: Continuación del curso de Python.
+
+14 de Enero: Continuación del curso de Python.
+
+15 de Enero: Continuación del curso de Python y creación de un script para conectarse en Python a un puertos.
+
+16 de Enero: Continuación del curso de Python.
+
+20 de Enero: Continuación del curso de Python y creación de un sistema que comprueba el estado de varios servicios en Python.
+
+21 de Enero: Continuación del curso de Python.
+
+22 de Enero: Continuación del curso de Python y creación de scripts para enviar trazas, métricas y logs de ejemplo a una máquina en Docker 
+de OpenTelemetry.
+
+23 de Enero: Finalización del curso de Python y creación de scripts para enviar trazas, métricas y logs de ejemplo a una máquina en Docker 
+de OpenTelemetry.
+
+27 de Enero: Continuación del curso de Dynatrace e investigación respecto a la configuración de MongoDB.
+
+28 de Enero: Continuación del curso de Dynatrace y redacción de una sección del libro blanco relacionada a los ejemplos obtenidos del 22 y 23 de Enero.
