@@ -75,3 +75,5 @@
 * __27 de Enero:__ Continuación del curso de Dynatrace e investigación respecto a la configuración de MongoDB.
 
 * __28 de Enero:__ Continuación del curso de Dynatrace y redacción de una sección del libro blanco relacionada a los ejemplos obtenidos del 22 y 23 de Enero.
+
+* __29 de Enero:__ Finalización del curso de Dynatrace.
