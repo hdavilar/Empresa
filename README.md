@@ -77,3 +77,5 @@
 * __28 de Enero:__ Continuación del curso de Dynatrace y redacción de una sección del libro blanco relacionada a los ejemplos obtenidos del 22 y 23 de Enero.
 
 * __29 de Enero:__ Finalización del curso de Dynatrace.
+
+* __30 de Enero:__ Inicio del curso de Grafana.
