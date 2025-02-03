@@ -79,3 +79,5 @@
 * __29 de Enero:__ Finalización del curso de Dynatrace.
 
 * __30 de Enero:__ Inicio del curso de Grafana.
+
+* __1 de Febrero:__ Continuación del curso de Grafana e investigación respecto a la creación de un cluster de OpenTelemetry.
