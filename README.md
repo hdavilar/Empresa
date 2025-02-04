@@ -81,3 +81,7 @@
 * __30 de Enero:__ Inicio del curso de Grafana.
 
 * __1 de Febrero:__ Continuación del curso de Grafana e investigación respecto a la creación de un cluster de OpenTelemetry.
+
+* __3 de Febrero:__ Continuación del curso de Grafana.
+
+* __4 de Febrero:__ Continuación del curso de Grafana e investigación respecto a la creación de un proyecto con DJango en Python. 
