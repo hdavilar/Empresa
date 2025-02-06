@@ -84,4 +84,6 @@
 
 * __3 de Febrero:__ Continuación del curso de Grafana.
 
-* __4 de Febrero:__ Continuación del curso de Grafana e investigación respecto a la creación de un proyecto con DJango en Python. 
+* __4 de Febrero:__ Continuación del curso de Grafana e investigación respecto a la creación de un proyecto con DJango en Python.
+
+* __5 de Febrero:__ Creación de un proyecto de DJango con una aplicación que se conecta a una BBDD MySQL y modifica y muestra valores de una tabla de la BBDD. 
