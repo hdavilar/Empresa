@@ -90,4 +90,8 @@
 
 * __6 de Febrero:__ Modificación del proyecto de DJango respecto al estilo y a las pantallas de error.
 
-* __10 de Febrero:__ Continuación con el proyecto de DJango. 
+* __10 de Febrero:__ Continuación con el proyecto de DJango.
+
+* __11 de Febrero:__ Apoyo para configurar los microservicios a usar en el proyecto.
+
+* __12 de Febrero:__ Creación de uno de los microservicio. 
