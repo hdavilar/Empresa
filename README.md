@@ -94,4 +94,6 @@
 
 * __11 de Febrero:__ Apoyo para configurar los microservicios a usar en el proyecto.
 
-* __12 de Febrero:__ Creación de uno de los microservicio. 
+* __12 de Febrero:__ Configuracion de un cluster local de MongoDB con Docker.
+
+* __13 de Febrero:__ Continuación con la configuracion de un cluster local de MongoDB con Docker.
