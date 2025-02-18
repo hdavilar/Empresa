@@ -99,3 +99,6 @@
 * __13 de Febrero:__ Continuación con la configuracion de un cluster local de MongoDB con Docker.
 
 * __17 de Febrero:__ Modificación del proyecto de DJango para la creación de filas en una tabla de la BBDD.
+
+* __18 de Febrero:__ Modificación del proyecto de DJango.
+
