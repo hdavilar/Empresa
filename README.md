@@ -104,3 +104,5 @@
 
 * __19 de Febrero:__ Adaptación del proyecto de DJango a un contenedor de Docker.
 
+* __20 de Febrero:__ Documentación con la explicación del código del proyecto de DJango.
+
