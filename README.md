@@ -102,3 +102,5 @@
 
 * __18 de Febrero:__ Modificación del proyecto de DJango.
 
+* __19 de Febrero:__ Adaptación del proyecto de DJango a un contenedor de Docker.
+
