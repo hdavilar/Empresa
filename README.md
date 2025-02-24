@@ -106,3 +106,5 @@
 
 * __20 de Febrero:__ Documentación con la explicación del código del proyecto de DJango.
 
+* __24 de Febrero:__ Adaptar los compose.yml de los microservicios del proyecto para introducirlo a Kubernetes.
+
