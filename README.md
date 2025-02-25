@@ -108,3 +108,5 @@
 
 * __24 de Febrero:__ Adaptar los compose.yml de los microservicios del proyecto para introducirlo a Kubernetes.
 
+* __25 de Febrero:__ Continuación con la adaptación de los microservicios a Kubernetes.
+
