@@ -110,3 +110,5 @@
 
 * __25 de Febrero:__ Continuación con la adaptación de los microservicios a Kubernetes.
 
+* __26 de Febrero:__ Continuación con la adaptación de los microservicios a Kubernetes mediante el uso de scripts.
+
