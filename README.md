@@ -112,3 +112,7 @@
 
 * __26 de Febrero:__ Continuación con la adaptación de los microservicios a Kubernetes mediante el uso de scripts.
 
+* __27 de Febrero:__ Investigación respecto a la conexión entre React y DJango.
+
+* __5 de Marzo:__ Resolución de algunos problemas de Kubernetes.
+
