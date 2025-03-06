@@ -116,3 +116,5 @@
 
 * __5 de Marzo:__ Resolución de algunos problemas de Kubernetes.
 
+* __6 de Marzo:__ Modificación del proyecto de microservicios para que el microservicio calculador se conecte correctamente a la base de datos de MongoDB además de que calcule constantemente ciertos datos.
+
