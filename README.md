@@ -120,3 +120,5 @@
 
 * __10 de Marzo:__ Modificación del proyecto para cambiar la BBDD de MySQL junto a sus datos a la de MongoDB.
 
+* __11 de Marzo:__ Continuación con la modificación del proyecto para conectar la parte de la web a la BBDD de MongoDB y modificación para el despliegue en K8s.
+
