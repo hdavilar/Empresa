@@ -118,3 +118,5 @@
 
 * __6 de Marzo:__ Modificación del proyecto de microservicios para que el microservicio calculador se conecte correctamente a la base de datos de MongoDB además de que calcule constantemente ciertos datos.
 
+* __10 de Marzo:__ Modificación del proyecto para cambiar la BBDD de MySQL junto a sus datos a la de MongoDB.
+
