@@ -124,3 +124,5 @@
 
 * __12 de Marzo:__ Continuación con la modificación del proyecto pero para conectar la api con FastAPI a la BBDD de MongoDB.
 
+* __13 de Marzo:__ Modificacion del proyecto de DJango para utilizar como frontend React.
+
