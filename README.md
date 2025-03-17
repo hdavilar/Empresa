@@ -126,3 +126,5 @@
 
 * __13 de Marzo:__ Modificacion del proyecto de DJango para utilizar como frontend React.
 
+* __17 de Marzo:__ Continuacion con la modificacion del proyecto para usar React y para que al actualizar algunos valores se registre quien, cuando y que valores se han actualizado.
+
